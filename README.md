@@ -6,3 +6,8 @@ natophonetic is a Python script that translates text into a phonetic representat
 
 - Translate text into NATO phonetic alphabet equivalents.
 - Improved error handling for better user experience.
+## Usage
+
+1. Clone this repository:
+
+   ```shell
